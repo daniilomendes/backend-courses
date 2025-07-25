@@ -1,0 +1,7 @@
+ORMs
+
+- Object/Relational Mapping
+- Mapeamento Objeto/Relacional
+- Responsável por fazer o "dê-para"
+- Parte essencial do Entity Framework
+- Similar ao Dapper
